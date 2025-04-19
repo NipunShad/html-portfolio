@@ -1,1 +1,1 @@
-# html-portfolio
+A personal web design portfolio showcasing beginner-level HTML projects, including a movie ranking page and a birthday invitation. This project demonstrates fundamental HTML structure, linking, and basic page layout using images and navigation.
